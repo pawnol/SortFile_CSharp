@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\SortFile\bin\Debug\SortFile.exe.config
+C:\Users\Nolan Pawelski\Desktop\SortFile\bin\Debug\SortFile.exe
+C:\Users\Nolan Pawelski\Desktop\SortFile\bin\Debug\SortFile.pdb
+C:\Users\Nolan Pawelski\Desktop\SortFile\obj\Debug\SortFile.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\SortFile\obj\Debug\SortFile.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\SortFile\obj\Debug\SortFile.exe
+C:\Users\Nolan Pawelski\Desktop\SortFile\obj\Debug\SortFile.pdb
